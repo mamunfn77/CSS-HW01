@@ -1,0 +1,65 @@
+
+.box{
+background-color:#F3F3EC;
+width: 400px; font-family: 'Roboto', sans-serif;
+padding: 20px 20px;
+box-sizing: border-box; margin: 5px auto; text-align: justify;
+}
+
+.box img{
+margin-left: 58px; background-color: green; 
+}
+.box h3{
+text-align: center;
+}
+.box h3 span{
+color: red; 
+}
+
+.suresh{
+    background-color:#d9e6cd;
+    width: 400px; font-family: 'Roboto', sans-serif;
+    padding: 20px 20px;
+    box-sizing: border-box; margin: 5px auto; text-align: justify;
+    }
+
+.suresh img{
+margin-left: 100px; width: 150px; height: 150px;
+}
+
+.suresh h3{
+    color:rgb(17, 76, 143); text-align: center;
+}
+
+.suresh p{
+    color:rgb(17, 76, 143);
+}
+
+.Enquary{
+    background-color:#b5e489;
+    width: 400px; font-family: 'Roboto', sans-serif;
+    padding: 1px 1px;
+    box-sizing: border-box; margin: 5px auto; text-align: justify;
+    }
+
+.Enquary h3{
+    color:red; text-align: center;
+}
+
+.input{
+    background-color:#f8f5f4;
+    width: 400px; font-family: 'Roboto', sans-serif;
+    padding: 1px 1px;
+    box-sizing: border-box; margin: 5px auto; text-align: center;
+    }
+
+.Contact{
+    background-color:#0e0502ef; color: white;
+    width: 400px; font-family: 'Roboto', sans-serif;
+    padding: 1px 0px;
+    box-sizing: border-box; margin: 5px auto; text-align: center;
+}
+
+.Contact a{
+    color: white;
+}
